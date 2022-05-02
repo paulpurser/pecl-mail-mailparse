@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home1/dpluspde/github/pecl-mime-mail-parser
+    - export DEPLOYPATH=/home1/dpluspde/github/pecl-mail-mailparse
     - /bin/cp -r * $DEPLOYPATH
